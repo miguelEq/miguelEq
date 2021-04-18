@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelEq  Miguel Angel 
 - 👀 I'm interested in I learn technologies new 
-- 🌱 I’m currently learning Spring and Typescript
+- 🌱 I’m currently learning Spring and React Js
 - 💼 In this moment I’m looking for job 
 - 📫 How to reach me ? miguelequilea18@gmail.com
 <!---
